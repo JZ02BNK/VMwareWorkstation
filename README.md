@@ -1,7 +1,7 @@
 **Harap diperhatikan：**  
 `Windows 7` Versi terakhir yang didukung adalah [`15.5.7`](#vmwareworkstation-15)；  
 `Windows XP`Dan`32sistem operasi bit` Versi terakhir yang didukung adalah [`10.0.7`](#vmwareworkstation-10)。  
-**Mulai 14 Mei 2024, versi 17.5.2 开始，VMware Workstation Pro Ini akan gratis untuk penggunaan pribadi. Untuk detailnya silahkan [Klik disini](https://blogs.vmware.com/cloud-foundation/2024/05/14/vmware-desktop-hypervisor-pro-apps-now-available-for-personal-use/)**  
+**Mulai 14 Mei 2024, versi 17.5.2 awal，VMware Workstation Pro Ini akan gratis untuk penggunaan pribadi. Untuk detailnya silahkan [Klik disini](https://blogs.vmware.com/cloud-foundation/2024/05/14/vmware-desktop-hypervisor-pro-apps-now-available-for-personal-use/)**  
 **Mulai 11 November 2024, versi 17.6.2，VMware Workstation Pro Ini akan gratis untuk semua pengguna. Untuk detailnya silahkan [Klik disini](https://blogs.vmware.com/cloud-foundation/2024/11/11/vmware-fusion-and-workstation-are-now-free-for-all-users/)**
 <hr>
 
