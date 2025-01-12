@@ -5,6 +5,9 @@
 **Mulai 11 November 2024, versi 17.6.2，VMware Workstation Pro Ini akan gratis untuk semua pengguna. Untuk detailnya silahkan [Klik disini](https://blogs.vmware.com/cloud-foundation/2024/11/11/vmware-fusion-and-workstation-are-now-free-for-all-users/)**
 <hr>
 
+**Untuk Release Tags silahkan [Klik disini](https://github.com/Sertwen/VMwareWorkstation/tags)**  
+<hr>
+
 **[Linux Versi silahkan klik di sini](Vmware-Workstation_For_Linux.md)**  
 <hr>
 
