@@ -1,18 +1,18 @@
-**请注意：**  
-`Windows 7` 最终支持版本为 [`15.5.7`](#vmwareworkstation-15)；  
-`Windows XP`与`32位操作系统` 最终支持版本为 [`10.0.7`](#vmwareworkstation-10)。  
-**自2024年5月14日、版本 17.5.2 开始，VMware Workstation Pro 将免费供个人用户使用。详情请 [点击此处](https://blogs.vmware.com/cloud-foundation/2024/05/14/vmware-desktop-hypervisor-pro-apps-now-available-for-personal-use/)**  
-**自2024年11月11日、版本 17.6.2 开始，VMware Workstation Pro 将免费供所有用户使用。详情请 [点击此处](https://blogs.vmware.com/cloud-foundation/2024/11/11/vmware-fusion-and-workstation-are-now-free-for-all-users/)**
+**Harap diperhatikan：**  
+`Windows 7` Versi terakhir yang didukung adalah [`15.5.7`](#vmwareworkstation-15)；  
+`Windows XP`与`32位操作系统` Versi terakhir yang didukung adalah [`10.0.7`](#vmwareworkstation-10)。  
+**Mulai 14 Mei 2024, versi 17.5.2 开始，VMware Workstation Pro Ini akan gratis untuk penggunaan pribadi. Untuk detailnya silahkan [Klik disini](https://blogs.vmware.com/cloud-foundation/2024/05/14/vmware-desktop-hypervisor-pro-apps-now-available-for-personal-use/)**  
+**Mulai 11 November 2024, versi 17.6.2，VMware Workstation Pro Ini akan gratis untuk semua pengguna. Untuk detailnya silahkan [Klik disini](https://blogs.vmware.com/cloud-foundation/2024/11/11/vmware-fusion-and-workstation-are-now-free-for-all-users/)**
 <hr>
 
-**[Linux 版本请点击此处](Vmware-Workstation_For_Linux.md)**  
+**[Linux Versi silahkan klik di sini](Vmware-Workstation_For_Linux.md)**  
 <hr>
 
-**[VMware Workstation 更新日志请点击此处](https://docs.vmware.com/cn/VMware-Workstation-Pro/index.html)**
+**[VMware Workstation Klik di sini untuk melihat log pembaruan](https://docs.vmware.com/cn/VMware-Workstation-Pro/index.html)**
 <hr>
 
-# 目录：
-* [最新版本](#最新版本)
+# Daftar isi：
+* [Versi terbaru](#最新版本)
 * [VMwareWorkstation 17.x](#vmwareworkstation-17.x)
 * [VMwareWorkstation 16.x](#vmwareworkstation-16.x)
 * [VMwareWorkstation 15.x](#vmwareworkstation-15.x)
