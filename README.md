@@ -21,11 +21,11 @@
 * [VMwareWorkstation 11.x](#vmwareworkstation-11.x)
 * [VMwareWorkstation 10.x](#vmwareworkstation-10.x)
 * [VMwareWorkstation 9.x](#vmwareworkstation-9.x)
-* [更多旧版](#更多旧版)
+* [Versi lama lainnya](#更多旧版)
 
-# 最新版本
-①博通官网：https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro  
-②VMware CDS Repository： https://softwareupdate.vmware.com/cds/vmw-desktop/ws/  （链接由[743859910](https://github.com/201853910/VMwareWorkstation/issues/20#issue-2509456970)提供, 此版本未内置`Vmware Tools`）
+# Versi terbaru
+①Situs web resmi Broadcom：https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro  
+②VMware CDS Repository： https://softwareupdate.vmware.com/cds/vmw-desktop/ws/  （Tautan oleh[743859910](https://github.com/201853910/VMwareWorkstation/issues/20#issue-2509456970)Disediakan, tidak dibangun dalam versi ini`Vmware Tools`）
 
 <hr>
 
